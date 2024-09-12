@@ -1,0 +1,7 @@
+@import url("./colors/colors.css");
+@import url("./styles.css");
+
+button {
+    cursor: pointer;
+}
+
