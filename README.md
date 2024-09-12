@@ -7,7 +7,7 @@
     <li>🔍 Search for GIFs by keywords.</li>
     <li>🎬 Displays 10 results for each search query.</li>
     <li>⚡️ Fast and responsive interface built with React.</li>
-    <li>🌐 Deployed on Netlify for easy access.</li>
+    <li>🌐 Deployed on Netlify for easy access and/or github pages.</li>
 </ul>
 
 <h2>Technologies Used</h2>
@@ -15,13 +15,14 @@
     <li><strong>React</strong>: A JavaScript library for building user interfaces.</li>
     <li><strong>JavaScript</strong>: Core language for app functionality.</li>
     <li><strong>Netlify</strong>: Used for deployment and hosting.</li>
+    <li><strong>GitHub page</strong>: Used for another deployment and hosting.</li>
 </ul>
 
 <h2>Getting Started</h2>
 <p>To run the project locally, follow these steps:</p>
 <ol>
     <li>Clone the repository:
-        <pre><code>git clone https://github.com/your-username/gif-expert-search.git</code></pre>
+        <pre><code>git clone https://github.com/danisanguino/gif-search-expert.git</pre>
     </li>
     <li>Navigate to the project directory:
         <pre><code>cd gif-expert-search</code></pre>
@@ -34,7 +35,8 @@
     </li>
 </ol>
 
-<p>The app will be available at <code>http://localhost:3000</code>.</p>
+<p>The app will be available at <code>http://http://localhost:5173/</code>.</p>
 
 <h2>Live Demo</h2>
-<p>You can try the live version of the app <a href="https://your-netlify-url.netlify.app">here</a>.</p>
+<p>You can try the live version of the app <a href="https://danisanguino.github.io/gif-search-expert/">GitHub Page</a>.</p>
+p>You can try the live version of the app <a href="https://gif-search-sanguino.netlify.app/">Netlify</a>.</p>
