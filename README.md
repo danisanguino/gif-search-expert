@@ -1,5 +1,7 @@
 <h1>Gif Expert Search 🎥</h1>
 
+<img src="public/app-giffExpert.jpg" />
+
 <p><strong>Gif Expert Search</strong> is a web application built with <strong>React</strong> and <strong>JavaScript</strong> that allows users to search for animated GIFs in real-time. Based on the search criteria, it displays a list of 10 related GIFs. The app is deployed on <strong>Netlify</strong>, making it accessible from any web browser with ease.</p>
 
 <h2>Features</h2>

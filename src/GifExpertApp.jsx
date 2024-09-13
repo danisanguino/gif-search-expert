@@ -5,7 +5,7 @@ import { AddCategory, GifGrid } from "./components";
 
 export const GifExpertApp = () => {
 
-    //almacenar información y cambiar el HTML
+//almacenar información y cambiar el HTML
 const [categories, setCategories] = useState(["Dragon ball Z"]);
     
 const onAddCategory = (onNewCategory)=> {
@@ -19,7 +19,7 @@ const onAddCategory = (onNewCategory)=> {
 
   return (
     <>
-    <h1>App GifExpert</h1>
+    <h1>GifExpert Search</h1>
     <AddCategory
       //  propCalabazaFromComponent= {setCategories} 
       onNewCategory = { onAddCategory }
