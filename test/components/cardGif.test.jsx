@@ -8,6 +8,6 @@ describe('testing <CardGif/>', () => {
     test('must be match with snapshot', () => { 
 
        
-     })
+     });
 
- })
+ });
