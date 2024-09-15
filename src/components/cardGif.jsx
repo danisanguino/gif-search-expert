@@ -15,4 +15,4 @@ export const CardGif = (props) => {
 CardGif.propTypes = {
   urlita: PropTypes.string.isRequired,
   titulete: PropTypes.string.isRequired
-}
+};
